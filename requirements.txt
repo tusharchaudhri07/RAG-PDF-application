@@ -1,8 +1,0 @@
-langchain
-langchain_community
-langchain_core
-langchain_groq
-streamlit
-pip install langchain-prompty
-streamlit
-dotenv
