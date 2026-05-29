@@ -1,0 +1,13 @@
+langchain-prompty
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+pypdf
+python-dotenv
+faiss-cpu
+sentence-transformers\
+chromadb
+
